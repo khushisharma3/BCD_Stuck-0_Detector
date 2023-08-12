@@ -1,0 +1,20 @@
+ISim log file
+Running: D:\New folder\BCDtoExcess3\bcd_xs3_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb D:/New folder/BCDtoExcess3/bcd_xs3_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# isim force add /bcd_xs3/a 0 -radix bin -value 1 -radix bin -time 100 ns -repeat 200 ns -cancel 200 ms
+# isim force add /bcd_xs3/b 0 -radix bin -value 1 -radix bin -time 50 ns -repeat 100 ns -cancel 200 ms
+# isim force add /bcd_xs3/c 0 -radix bin -value 1 -radix bin -time 25 ns -repeat 50 ns -cancel 200 ms
+# isim force add /bcd_xs3/d 0 -radix bin -value 1 -radix bin -time 12500 ps -repeat 25 ns -cancel 200 ms
+# run 1.00us
+# run 1.00us
+# run 1.00us

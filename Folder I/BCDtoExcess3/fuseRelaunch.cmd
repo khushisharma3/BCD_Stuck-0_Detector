@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "D:/New folder/BCDtoExcess3/bcd_xs3_isim_beh.exe" -prj "D:/New folder/BCDtoExcess3/bcd_xs3_beh.prj" "work.bcd_xs3" "work.glbl" 

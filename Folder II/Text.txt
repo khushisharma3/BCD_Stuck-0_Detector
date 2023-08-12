@@ -1,0 +1,1 @@
+In order to run the online simulator, open the HTML text file "index.html" on any web browser.

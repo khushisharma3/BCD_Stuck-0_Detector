@@ -1,0 +1,2 @@
+Open .wcfg file in the simulator.
+bcd_xs3 sim starts after 1000ns.

@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/New folder/SA0Test/bcd_ex3_tb.xst" -ofn "D:/New folder/SA0Test/bcd_ex3_tb.syr" 
